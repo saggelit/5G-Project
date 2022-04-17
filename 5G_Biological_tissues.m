@@ -1,10 +1,3 @@
-                %  -------------------------------  %
-                %   Computational E/M               %
-                %   Angelitsi Sotiria, AEM:4366     %
-                %   Dragatsikas Ioannis, AEM:4375   %
-                %   Project - 5G                    %
-                %  -------------------------------  %
-            
 clear; clc; clf;
 
 j=sqrt(-1);
